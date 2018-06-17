@@ -19,7 +19,9 @@ Installation
 
 2. Copy the Article folder and paste in C->xampp->htdocs folder.
 
-3. Change the username and password according to your localhost phpmyadmin username and password in article->application->library->ActiveRecord
+3. Change the username and password according to your localhost phpmyadmin username and password in article->application->libraries->ActiveRecord.php like this-
+
+'mysql://your_username:your_password@localhost/article'
 
 phpmyadmin database and table structure:
 
