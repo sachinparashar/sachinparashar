@@ -28,7 +28,15 @@ phpmyadmin database and table structure:
 1. Create database -: article
 
 2. Download the database table article.sql file and import into your database called article.
-*******
+
+*********************
+Running the project:
+
+1. Open XAMPP and start apache and mysql.
+
+2. In Browser, write--- http://localhost/article/
+
+***************
 Acknowledgement
 ***************
 
