@@ -31,6 +31,7 @@ phpmyadmin database and table structure:
 
 *********************
 Running the project:
+*********************
 
 1. Open XAMPP and start apache and mysql.
 
