@@ -17,7 +17,7 @@ Installation
 
 1. Download this repository.
 
-2. Copy the Article folder and paste in C->xampp->htdocs folder.
+2. Extract the zip file and Copy the 'article' folder and paste in C->xampp->htdocs folder.
 
 3. Change the username and password according to your localhost phpmyadmin username and password in article->application->libraries->ActiveRecord.php like this-
 
