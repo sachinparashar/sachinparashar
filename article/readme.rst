@@ -15,7 +15,12 @@ PHP version 7.2.3 or newer is recommended.
 Installation
 ************
 
-Download this repository and change the username and password according to your localhost phpmyadmin username and password in article->application->library->ActiveRecord
+1. Download this repository.
+
+2. Copy the Article folder and paste in C:\xampp\htdocs folder.
+
+3. Change the username and password according to your localhost phpmyadmin username and password in article->application->library->ActiveRecord
+
 phpmyadmin database and table structure:
 
 1. Create database -: article
